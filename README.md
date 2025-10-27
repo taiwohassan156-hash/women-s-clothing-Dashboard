@@ -1,5 +1,12 @@
-# women-s-clothing-Dashboard
-### Women's clothing analysis
+# women-s-clothing-Analysis
+
+# Table of contents 
+- [Project overview](#projectoverview)
+- [Data sources](#datasources)
+- [Recommendations](#recommendations)
+- 
+### Project Overview 
+
 The Women’s Clothing Sales Dashboard was developed to analyze customer feedback and purchasing patterns in the women’s fashion industry. The main goal of this project was to uncover insights that explain how customer ratings, age distribution, and product categories influence positive feedback and overall satisfaction.
 Using interactive data visualizations, the dashboard provides a clear overview of customer behavior based on ratings, recommendations, and product types, helping fashion retailers understand what drives loyalty and product success.
 
